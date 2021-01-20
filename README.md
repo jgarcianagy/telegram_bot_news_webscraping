@@ -1,6 +1,6 @@
 # Remember: Noticiarg  is in beta!
 
-This telegram bot should help me to be in contact whit whats happening in Argentina and send the first most important news of heach principal newsspapers of my country. Also, he should send my a simple text mining analisis and a ranking of whichs words are published in the moment.
+This telegram bot should help me to be in contact whit whats happening in Argentina and send the five most important news of heach principal newsspapers of my country. Also, he should send my a simple text mining analisis and a ranking of whichs words are published in the moment.
 
 Next steps:
  - 1 : scrap lasting newspapers (Clarin, Ambito, Cronista).
